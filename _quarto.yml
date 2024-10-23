@@ -1,18 +1,79 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
+  preview: 
+    port: 4200
+    browser: false
 
 website:
-  title: "Publish"
+  title: "El Aleph"
+  reader-mode: false
+  sidebar: 
+      style: "docked"
+      search: false
+      contents:
+        - section: "Semiconductor"
+          contents:
+            - 001_Physics.qmd
+            - 002_Device.qmd
+            - 003_Test.qmd
+            - 004_Reliability.qmd
+            - 005_Production.qmd
+        - section: "Notes"
+          contents:
+            - 101_Books.qmd
+            - 102_Guitar.qmd
+            - 103_Quarto.qmd
+        - Text: "Blogs"
+          href: Blogs.qmd
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    search: true 
+    right:
       - about.qmd
+      - icon: book
+        menu: 
+          - icon: github
+            href: https://github.com/El25Aleph/El25Aleph.github.io
+            text: GitHub
+          - icon: linkedin
+            href: https://www.linkedin.com/feed/
+            text: Linkedin
+          - icon: building-fill
+            href: https://www.infineon.com
+            text: Infineon AG
+          - icon: mortarboard-fill
+            href: https://www.tu-chemnitz.de/etit/le/index.php.en
+            text: Professorship
+    
+    left:
+      - text: Semiconductor
+        menu: 
+          - text: 01_Physics
+            href: 001_Physics.qmd
+          - text: 02_Device
+            href: 002_Device.qmd
+          - text: 03_Test
+            href: 003_Test.qmd
+          - text: 04_Reliability
+            href: 004_Reliability.qmd
+          - text: 05_Production
+            href: 005_Production.qmd
+      - text: Notes
+        menu:
+          - text: 01_Books
+            href: 101_Books.qmd
+          - text: 02_Guitar
+            href: 102_Guitar.qmd
+          - text: 03_Quarto
+            href: 103_Quarto.qmd
+      - text: Blogs
+        href: Blogs.qmd
+
+page-layout: full
 
 format:
   html:
-    theme: cosmo
+    theme: cosmos
     css: styles.css
     toc: true
 

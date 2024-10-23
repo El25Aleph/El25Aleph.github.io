@@ -1,0 +1,7 @@
+---
+title: "Blogs"
+listing: 
+  contents: Blogs
+  type: table
+  sort: "title asc"
+---

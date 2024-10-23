@@ -4,5 +4,40 @@
   },
   "about.qmd": {
     "about.html": "0248d0c2"
+  },
+  "Semiconductor.qmd": {
+    "Semiconductor.html": "79e3e8b4",
+    "Semiconductor.md": "b0306d73"
+  },
+  "Notes.qmd": {
+    "Notes.html": "48945875"
+  },
+  "Blogs.qmd": {
+    "Blogs.html": "5d2f55ba"
+  },
+  "001_Physics.qmd": {
+    "001_Physics.md": "eefb5a79",
+    "001_Physics.html": "459e1d3d"
+  },
+  "001_Physics/pn-junction.qmd": {
+    "pn-junction.html": "f2a03255"
+  },
+  "001_Physics/MOS-contact.qmd": {
+    "MOS-contact.html": "be4e261b"
+  },
+  "001_Physics/Basic.qmd": {
+    "Basic.html": "9f744606"
+  },
+  "005_Production/MSA.qmd": {
+    "MSA.html": "68216b04"
+  },
+  "001_Physics/MS-contact.qmd": {
+    "MS-contact.html": "4f5465f2"
+  },
+  "005_Production.qmd": {
+    "005_Production.html": "b6cd4fa7"
+  },
+  "Blogs/2024-10.qmd": {
+    "2024-10.html": "817f9c37"
   }
 }
