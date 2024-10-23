@@ -1,16 +1,43 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Blogs.html",
+    "href": "Blogs.html",
+    "title": "Blogs",
     "section": "",
-    "text": "About this site"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 23, 2024\n\n\n2024-10\n\n\nBo Zhang\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blogs"
+    ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "El25Aleph",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About El Aleph",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About El Aleph\n“El Aleph” is a short story by Jorge Luis Borges. It describles a point in space that contains all other spaces at once. Anyone who gazes into it can see everything in the universe from every angle simultaneously, without distortion, overlapping, or confusion. Aleph can not be described, one can only feel it. Based on the quote never stop learning, El Aleph is chosen as the name of this website.\n\n\nAbout Me\n\nExperience\n\n2022 - now: Application Engineer | Infineon AG\n2020 - 2022: Student Assistant | Chair of Power Electronics | University of Technology Chemnitz\n\n\n\nPublication\n\nInfluence of Magnetic Coupling Effects between Load and Gate Commutation Loop on the Short Circuit Behavior\nTemperatur Distribution of an IGBT Chip during Repetitive Switching Events under Consideration of Front-Side Aging\n\n\n\nEducation\n\n2019 - 2022: University of Technology Chemnitz | Master of Electro-Mobility\n2018 - 2019: University of Technology Chemnitz | Bachelor of Electro-Mobility\n2012 - 2016: Shandong University of Technology | Bachelor of Transportation and Communication"
+  },
+  {
+    "objectID": "001_Physics.html",
+    "href": "001_Physics.html",
+    "title": "001_Physics",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 22, 2022\n\n\n01_Basic\n\n\nBo Zhang\n\n\n\n\nFeb 19, 2023\n\n\n02_pn-junction\n\n\nBo Zhang\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blogs",
+      "Semiconductor",
+      "001_Physics"
+    ]
+  },
+  {
+    "objectID": "005_Production.html",
+    "href": "005_Production.html",
+    "title": "005_Production",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 22, 2024\n\n\nMSA\n\n\nBo Zhang\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blogs",
+      "Semiconductor",
+      "005_Production"
+    ]
   }
 ]
